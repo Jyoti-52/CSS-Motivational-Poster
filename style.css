@@ -2,6 +2,8 @@ body{
     background-color: black;
     color:white;
     text-align: center;
+    padding-left: 33%;
+    margin-top: 8%;
   }
   h1{
   font-family: "Libre Baskerville", serif;
@@ -18,8 +20,6 @@ body{
   }
   div{
     width: 50%;
-    margin-top: 5%;
-    margin-left:25% ;
   }
   p{
     font-size: 20px;
